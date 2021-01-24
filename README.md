@@ -64,7 +64,7 @@ This project uses the [MIT][license-url] license.
 [stars-url]: https://github.com/hannahfolk/password-generator-2/stargazers
 [issues-shield]: https://img.shields.io/github/issues/hannahfolk/password-generator-2
 [issues-url]: https://github.com/hannahfolk/password-generator-2/issues
-[license-shield]: https://img.shields.io/github/badge/License-MIT-green.svg
+[license-shield]: https://img.shields.io/badge/License-MIT-green.svg
 [license-url]: https://github.com/hannahfolk/password-generator-2/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/hannahfolk
