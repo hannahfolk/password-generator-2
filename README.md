@@ -29,7 +29,7 @@ This is a password generator which uses the window object's prompts and confirms
 <!-- ABOUT THE PROJECT -->
 ## About The Project
     
-[![Product Name Screen Shot][product-screenshot]]()
+[![Product Name Screen Shot][product-screenshot]](https://hannahfolk.github.io/password-generator-2/)
 
 ## Using Password Generator
     
